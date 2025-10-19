@@ -1,1 +1,1 @@
-# Music_Generation
+This project explores symbolic music generation through two approaches. The first part focuses on unconditioned generation, training a model to learn and sample from a distribution of musical sequences. The second part implements conditioned generation, producing symbolic music such as harmonization, melody generation, or transcription based on given inputs.# Music_Generation
